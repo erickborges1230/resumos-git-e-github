@@ -23,6 +23,7 @@ git clone (Você pode clonar);
 git status (Exibe caminhos que possuem diferenças entre o arquivo de índice e o commit HEAD atual);
 cat (Usado para unir, criar e exibir arquivos);
 git remote (git-remote - Gerenciar conjunto de repositórios rastreados)
+git pull (Baixa as atualizações do repositório remoto para o repositório local)
 ```
 ## 📕 Referências
 
